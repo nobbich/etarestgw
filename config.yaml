@@ -1,0 +1,9 @@
+# ETAtouch
+PU15:
+ url: 192.168.0.50
+ port: 8080
+ 
+
+# Prometheus
+Server:
+ port: 8000
